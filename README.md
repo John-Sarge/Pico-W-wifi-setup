@@ -52,3 +52,5 @@ In summary, the code's primary functions are:
 -   Providing visual feedback through the LED during the connection process.
 
 -   Displaying the assigned IP address once the connection is successful.
+
+created by [John Seargeant](https://github.com/John-Sarge) with a little help from GPT and Bard.  03Feb2024
